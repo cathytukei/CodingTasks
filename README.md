@@ -10,16 +10,12 @@ Learning to develop interactive programs like guessing games is important for un
 
 ### Usage
 
-1. Save this file as `number_guessing_game.py`.
-2. Open a terminal or command prompt and navigate to the directory containing the file.
-3. Run the program using `python number_guessing_game.py`.
-4. Follow the prompts to guess the number within the allowed attempts.
+1. Save this file as; number_guessing_game.py
+3. Open a terminal or command prompt and navigate to the directory containing the file.
+4. Run the program using python
+5. Follow the prompts to guess the number within the allowed attempts.
 
 ### Credits
 
 * Author: Cathy Tukei
-
-**Note:**
-
-* You can customize the game difficulty (number range, number of tries) by modifying the code within the script.
 
