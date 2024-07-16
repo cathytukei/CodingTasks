@@ -15,13 +15,9 @@ Learning to develop interactive programs like guessing games is important for un
 3. Run the program using `python number_guessing_game.py`.
 4. Follow the prompts to guess the number within the allowed attempts.
 
-**Example Screenshot:**
-
- (**Note:** You'll need to replace this with an actual screenshot)
-
 ### Credits
 
-* Author: You (Your Name)
+* Author: Cathy Tukei
 
 **Note:**
 
